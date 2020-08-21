@@ -13,3 +13,8 @@ Steps to build and deploy
 3. build the project
 4. deploy the SearchAPI.war
 5. access the application with http://localhost:7001/SearchAPI/
+
+what is missing
+
+1. JUnit Testing
+2. Field Validation
